@@ -2,7 +2,7 @@
 14.33 short paper project, Fall 2020
 Jennah Haque
 
-
+My code was relatively short. Thus, all the code needed to reproduce my analysis and figures/tables is all under exonerations_code.do. 
 
 What the project does:
 This is a project that estimates the effect of mandatory minimum sentencing reform on racial disparities within the number of exonerations. 
